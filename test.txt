@@ -1,1 +1,2 @@
 This is my lateest change.
+I've added some changes to check the change of the HEAD hash.
